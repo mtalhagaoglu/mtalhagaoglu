@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtalhagaoglu
-- 👀 I’m interested in mobile app development and little bit backend services
-- 🌱 I’m currently learning react-native
-- 📫 How to reach me hi@agaoglu.tech or agaoglutalha@gmail.com
+- 👀 I’m interested in mobile app development and backend services
+- 🌱 I’m currently building apps with react-native
+- 📫 How to reach me agaoglutalha@gmail.com
 
 <!---
 mtalhagaoglu/mtalhagaoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
